@@ -1,0 +1,7 @@
+# Public tree only (TOOLS_PUBLISH_LITE allowlist)
+out/
+out-ir/
+out-linux/
+out-linux-ir/
+.fxrun/
+*.ps1

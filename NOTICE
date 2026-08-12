@@ -1,0 +1,15 @@
+fxpipe
+Copyright 2026 Shawn Londono
+
+This product is part of the LedoCorp fx tools line.
+It depends on the fx language package (ledocorp/fxlang).
+
+Project home: http://www.ledocorp.org
+Source hosting: https://github.com/ledocorp/fxpipe
+Language package: https://github.com/ledocorp/fxlang
+
+This product links BLAKE3 (Apache-2.0 / CC0). See
+https://github.com/BLAKE3-team/BLAKE3
+
+The contents of this NOTICE file are for informational purposes only and
+do not modify the Apache License, Version 2.0.
