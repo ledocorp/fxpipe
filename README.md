@@ -8,7 +8,7 @@ fxpipe hashes many paths with a structured worker pool (host nursery). Output is
 |--|--|
 | **Requires** | [fx](https://github.com/ledocorp/fxlang) **0.9.6+** (with `--cli`) |
 | **Platforms** | Windows + Linux **x86_64** |
-| **License** | Apache-2.0 (tool) · Apache-2.0 / CC0 (BLAKE3) |
+| **License** | GPL-3.0 (tool) · CC0-1.0 (BLAKE3) |
 | **Org** | [LedoCorp](http://www.ledocorp.org) |
 
 ## Install (release binaries)
@@ -78,4 +78,4 @@ Shell/`{}` templates · GNU parallel parity · Chan/spawn-closure language epic 
 
 ## License
 
-Copyright Shawn Londono · LedoCorp · Apache-2.0 — see [LICENSE](LICENSE).
+Copyright Shawn Londono · LedoCorp · GPL-3.0 — see [LICENSE](LICENSE).

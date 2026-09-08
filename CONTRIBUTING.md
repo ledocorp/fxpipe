@@ -5,4 +5,4 @@
 3. FsCap `--allow` stays mandatory for hash inputs.
 4. Public docs stay free of private board jargon.
 
-License: Apache-2.0.
+License: GPL-3.0.
